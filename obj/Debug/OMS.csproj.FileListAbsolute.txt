@@ -1,0 +1,4 @@
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\WindowsGame4\OMS\bin\Debug\OMS.dll
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\WindowsGame4\OMS\bin\Debug\OMS.pdb
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\WindowsGame4\OMS\obj\Debug\OMS.dll
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\WindowsGame4\OMS\obj\Debug\OMS.pdb
